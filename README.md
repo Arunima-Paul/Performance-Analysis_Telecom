@@ -125,7 +125,7 @@ b) Britel 2nd position holds with 27.49% market share.
 
 c)	DADAFONE at 10.31% and Others at 7.23% are smaller players.
 
-d) Atliqo slipped to no. 3 position in the market with 19.56% market share.
+d) AtliQo slipped to no. 3 position in the market with 19.56% market share.
 
 e) From the line chart for market share by month shows fluctuating trends, with AtliQo experiencing a downward trajectory after 5G - confirmed by visible dips in months like June, April, January, July, September.
 
