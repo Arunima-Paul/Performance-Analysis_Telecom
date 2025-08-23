@@ -86,7 +86,7 @@ Overall the trend indicates Unsubscribed users are consistently higher post 5G, 
 
 **(i) Revenue per City insights** - Overall revenue dipped slightly from 1,597.70 crores before 5G to 1,589.66 crores after 5G : -0.51% decline.
 
-Growth observed in Cities: Lucknow : 1.79%, Gurgaon : 1.49%, Patna : 1.46%, Raipur : +1.1%. These are smaller or, Tier-2 cities showing growth.
+Growth observed in Cities: Lucknow : 1.79%, Gurgaon : 1.49%, Patna : 1.46%, Raipur : +1.13%. These are smaller or, Tier-2 cities showing growth.
 
 Declining growth observed in Cities: Delhi :-2.91%, Chennai :-2.66% , Ahmedabad : -2.06%, Hyderabad : -1.31%. These are metro cities having revenue decline.
 
@@ -129,12 +129,12 @@ d) Atliqo slipped to no. 3 position in the market with 19.56% market share.
 
 e) From the line chart for market share by month shows fluctuating trends, with AtliQo experiencing a downward trajectory after 5G - confirmed by visible dips in months like June, April, January, July, September.
 
-**(iv) Revenue by Plans:** Revenue higher in top 3 plans :P1, P2, P3 , contributing majority of plan revenue. 
+**(iv) Revenue by Plans:** Revenue higher in top 3 plans : P1, P2, P3 , contributing majority of plan revenue. 
 
 The smaller plans from P7 to P13 generate very little revenue which suggest an inefficient plan portfolio.
 
 **Overall scenario -** AtliQo's market position is mid-level, but the after 5G decline in share indicates competitors like PIO and Britel may have captured more 5G users. 
-Revenue is concentrated in higher plans from p1 to p6, suggesting a need to boost adoption of lower plans.
+Revenue is concentrated in higher plans from P1 to P6, suggesting a need to boost adoption of lower plans.
 
 **7. Recommendations for Top-Level Board Members** - 
 
