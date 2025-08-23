@@ -110,13 +110,47 @@ Decline in churn: Mumbai : -14.46%, indicates that churn stabilized in this metr
 
 **Overall scenario -** Tier-2 cities like Pune, Patna, Lucknow and Raipur are driving growth either in ARPU or active users. But major metros such as Delhi, Mumbai and Bangalore are losing large chunks of users, with Delhi alone dropping over 20% of its active base. Churn is especially severe in cities like Lucknow, Jaipur and Chennai. This tells us growth is happening in smaller cities while metros are slipping away.
 
-**6. Market Performance analysis - ** This dashboard provides an overview of KPIs across all plans, cities and time periods along with a focus on market share dynamics and revenue distribution by different plans of AtliQo and other companies.
+**6. Market Performance analysis -** This dashboard provides an overview of KPIs across all plans, cities and time periods along with a focus on market share dynamics and revenue distribution by different plans of AtliQo and other companies.
 
 <img width="1920" height="870" alt="Scrn_4" src="https://github.com/user-attachments/assets/2a766496-b595-497e-ac85-edbc2712926f" />
 
+**(i) Overall Revenue and Market Metrics insights :** Total revenue across all plans stands at 1950.75 Crores, with a total market value of 83039.25 Crores. 
+Atliqo's average market share is 20.00%, but its own specific share is slightly lower at 19.56%, indicating room for growth. Average revenue per AtliQo is 26.56 Crores.
+
+**(ii) Market Share Trends Before and After 5G:** AtliQo's market share declined from 20.24% before 5G to 18.88% after 5G, representing a -7.17% change. This suggests that the 5G launch may have intensified competition with other Companies like PIO, Britel, DADAFONE which lead to market share erosion.
+
+**(iii) Competitive Market Insights:** From the Bar chart it is observed that a) PIO leads with 35.42% share, showing strong gains after 5G.
+
+b) Britel 2nd position holds with 27.49% market share.
+
+c)	DADAFONE at 10.31% and Others at 7.23% are smaller players.
+
+d) Atliqo slipped to no. 3 position in the market with 19.56% market share.
+
+e) From the line chart for market share by month shows fluctuating trends, with AtliQo experiencing a downward trajectory after 5G - confirmed by visible dips in months like June, April, January, July, September.
+
+**(iv) Revenue by Plans:** Revenue higher in top 3 plans :P1, P2, P3 , contributing majority of plan revenue. 
+
+The smaller plans from P7 to P13 generate very little revenue which suggest an inefficient plan portfolio.
+
+**Overall scenario -** AtliQo's market position is mid-level, but the after 5G decline in share indicates competitors like PIO and Britel may have captured more 5G users. 
+Revenue is concentrated in higher plans from p1 to p6, suggesting a need to boost adoption of lower plans.
+
+**7. Recommendations for Top-Level Board Members** - 
+
+Based on the insights from the dashboards, here are actionable recommendations to address the after 5G decline in active users, revenue growth and market share while leveraging ARPU improvements:
+
+(i) Optimize Internet Plans for customer retention by introducing bundle offers in 5G, value added service like data booster packs or streaming perks, aiming to take back the unsubscribed users.
+
+(ii) Take city specific strategies based on city performnace by focusing on underperforming metros like Delhi, Mumbai and Chennai where active users dropped and revenue declined. Implement customer feedback surveys and improve customer service quality. 
+
+(iii) Churn mitigation and user acquisition by implementing customer retention programmes like reward programmes or win-back marketing campaigns.
+
+(iv) Data-Driven monitoring using internal customers with predictive analytics (Example: forecast ARPU vs. churn correlations) and tracking of KPIs monthly.
 
 
+--- End of analysis ---
 
-
+Dataset obtained from Codebasics Resume Project challenge #3.
 
 
