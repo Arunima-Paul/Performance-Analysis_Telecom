@@ -148,6 +148,9 @@ Based on the insights from the dashboards, here are actionable recommendations t
 
 (iv) Data-Driven monitoring using internal customers with predictive analytics (Example: forecast ARPU vs. churn correlations) and tracking of KPIs monthly.
 
+**8. Conclusion-**  5G rollout has improved AtliQo's revenue per user, but customer churn/loss has decreased the overall growth and market share. 
+AtliQo has strength to fight back, however urgent action on customer churn and market competition needed, otherwise they risk losing long-term leadership in the Market.
+
 
 --- End of analysis ---
 
