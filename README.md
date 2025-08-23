@@ -54,7 +54,7 @@ Here it increased from 190.23 to 211.25 which is a 11.05% growth. Average ARPU: 
 
 (v)	Other Metrics: Plan revenue: 1.95K. % Change in active users: -8.28%. Unsubscribed growth is a concern.
 
-Overall scenario -AtliQo is monetizing it's existing customers better (higher ARPU), but the bigger problem is user loss and churn. Without fixing churn, revenue sustainability is at risk.
+Overall scenario - AtliQo is monetizing it's existing customers better (as higher ARPU), but the bigger problem is user loss and churn. Without fixing churn, revenue sustainability is at risk.
 
 4. Trends analysis - In this dashboard time-period based trend analysis in KPIs are shown, alongwith comparison in sequential time periods (1-4) before and after 5G.
 
@@ -65,6 +65,50 @@ As per meta-data - months are starting from January to September except for May.
 time_period represents the unique sequence number ranging from 1 to 4. These time Periods are used to make respective months comparisons before and after 5G implementation (Example: Jan vs Jun, Feb vs Jul, Mar vs Aug and Apr vs Sep).
 
 <img width="1910" height="867" alt="Scrn_2" src="https://github.com/user-attachments/assets/9ac70511-14df-4f83-a328-1beff2a87ada" />
+
+(i) Revenue Trends: Revenue shows overall a -50.32% decline after 5G. Paired comparisons (Example: Jan vs. Jun, Feb vs. Jul) indicate initial post-5G drops but some stabilization. 
+Overall this trend indicates that AtliQo failed to capitalize on the 5G launch compared to expectations.
+
+(ii) ARPU Trends: ARPU grew +11.05% after 5G. The line chart shows a downward trend before 5G (Example: from 3037 to 2786). 
+After 5G shows stabilization around 3143, with growth in later periods indicating that 5G customers are willing to pay more.
+
+(iii) Active Users Trends: Active users declined -8.28% after 5G. The Bar chart shows before 5G growth (Example: in time-period 2 & 3 as 228-213), after 5G decrease (Example: in time-period 2 & 4 as 211-188), with consistent downward trajectory across time periods.
+
+(iv) Unsubscribed Users Trends: Unsubscribed users grew +23.50% after 5G. The Bar chart indicates before 5G decrease (Example: 11.7-15.0), after 5G increase (Example: 18.6-16.8), highlighting accelerating churn in months like July and August. 
+Overall the trend indicates Unsubscribed users are consistently higher post 5G, and the gap widens in later periods.
+
+Overall scenario - The trends indicate that the Company's issue is not revenue per user but loss of users. While ARPU is steadily growing, the decline in active users and increase in unsubscribed users signals strong competitive pressure.
+
+5. City Level Performance analysis - This dashboard breaks down KPIs by city, comparing before and after 5G periods.
+
+<img width="1920" height="875" alt="Scrn_3" src="https://github.com/user-attachments/assets/088e80aa-2d4a-47fb-bba9-3f2dfa94c9a8" />
+
+
+(i) Revenue per City insights - Overall revenue dipped slightly from 1,597.70 crores before 5G to 1,589.66 crores after 5G : -0.51% decline.
+
+Growth observed in Cities: Lucknow : 1.79%, Gurgaon : 1.49%, Patna : 1.46%, Raipur : +1.1%. These are smaller or, Tier-2 cities showing growth.
+
+Declining growth observed in Cities: Delhi :-2.91%, Chennai :-2.66% , Ahmedabad : -2.06%, Hyderabad : -1.31%. These are metro cities having revenue decline.
+
+(ii) ARPU per City insights: Total ARPU increases from 11414 to 12675 increases 9.95%, indicating higher spending per user after 5G. 
+
+Top growth cities are - Raipur : 18.20%, Ahmedabad : 17.93%, Patna : 16.85%, Bangalore : 16.39). From this table it is observed that mostly Tier-2 cities are contributing to ARPU growth.
+   
+Declining cities are Chennai : -2.65%, Pune : - 14.78% . Chennai, Kolkata, Mumbai, Delhi, Hyderabad - these metro cities show both revenue and ARPU declines which is double concern for AtliQo.
+
+(iii) Active Users per City insights - Total active users fell from 843.53 Lakhs to 773.70 Lakhs :-9.03% decline. 
+
+Only Cities like Pune : 15.30%, Lucknow :2.58% and Chennai :0.35% show Active User gain. Pune stands out as both revenue and user growth positive.
+
+All other major metros are losing customers fast. 
+
+(iv) Unsubscribed Users per City insights : Total unsubscribed users increased from 56.33 Lakhs to 69.57 Lakhs :+19.03%. 
+
+Highest Churn in Cities: Lucknow : 43.79%, Pune : 35.61%, Jaipur : 34.41%,  Chandigarh : 31.33%, Chennai : 26.98%
+
+Decline in churn: Mumbai : -14.46%, indicates that churn stabilized in this metro, possibly due to saturation.
+
+Overall scenario - Tier-2 cities like Pune, Patna, Lucknow and Raipur are driving growth either in ARPU or active users. But major metros such as Delhi, Mumbai and Bangalore are losing large chunks of users, with Delhi alone dropping over 20% of its active base. Churn is especially severe in cities like Lucknow, Jaipur and Chennai. This tells us growth is happening in smaller cities while metros are slipping away.
 
 
 
