@@ -2,7 +2,7 @@
 Performance Analysis of a Telecom company in PowerBI, gathering insights and recommendations given for performance improvement. 
 
 Link for PowerBI Live Dashboard - 
-https://app.powerbi.com/groups/me/reports/728607b2-5a51-4880-a96a-30e96545c733/6edb1dd28d0040898eac?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiMmY2N2UyNDUtYTY3Zi00Yzc1LTgwYWYtOTEyMTU4MTIxZjMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Welcome to the performance analysis of AtliQo Telecom. 
 
